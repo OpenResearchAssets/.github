@@ -24,6 +24,12 @@ OpenResearchAssets 是面向人类研究者与 AI Agent 的独立开源科研资
 
 > 三个阶段是长期愿景，不代表当前功能已实现，也没有预设实现时间。科学真实性、来源可追溯、版权合规、透明审核和真正的科研价值，始终优先于 Star 与收录数量。
 
+## 有来源可核对的真实论文案例 · Featured research
+
+[**RoboRender：方法、真实机器人结果与研究主页的证据链**](https://openresearchassets.github.io/examples/roborender.html) — 以作者公开论文和 8 项任务的结果为依据，提供原创可编辑 SVG、逐任务 CSV 与来源审计。**这是作者报告结果的独立解读，不是 OpenResearchAssets 的实验复现。**
+
+[**RoboRender: source-grounded research analysis**](https://openresearchassets.github.io/examples/roborender.html) — editable editorial diagrams, author-reported per-task results and explicit reproduction limits.
+
 ## 第一次使用 · Start here
 
 - **研究者 / Researcher:** [先看三个完整实践案例](https://openresearchassets.github.io/examples.html)，从可编辑 Method Figure 到对照实验与项目主页，再按任务[浏览资产库](https://openresearchassets.github.io/#references)；教学案例不包含真实实验结果。
