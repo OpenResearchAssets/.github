@@ -26,7 +26,7 @@ OpenResearchAssets 是面向人类研究者与 AI Agent 的独立开源科研资
 
 ## 第一次使用 · Start here
 
-- **研究者 / Researcher:** [先看实验规划工作流](https://openresearchassets.github.io/asset.html?id=experiment-planning)，再按任务[浏览全部资产](https://openresearchassets.github.io/#references)；每项资源都应核实适用条件与来源。
+- **研究者 / Researcher:** [先看三个完整实践案例](https://openresearchassets.github.io/examples.html)，从可编辑 Method Figure 到对照实验与项目主页，再按任务[浏览资产库](https://openresearchassets.github.io/#references)；教学案例不包含真实实验结果。
 - **AI Agent:** [阅读 AI 使用指南](https://openresearchassets.github.io/for-agents/)；先按结构化目录检索，实际执行仍需相应文件与工具权限。
 - **贡献者 / Contributor:** [推荐科研资产](https://github.com/OpenResearchAssets/openresearchassets.github.io/issues/new?template=asset-request.md)，或[修正错误](https://github.com/OpenResearchAssets/openresearchassets.github.io/issues/new?template=catalog-correction.md)；支持方法、工作流、工具和原创可编辑素材。
 
