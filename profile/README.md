@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://openresearchassets.github.io/">
+    <img src="https://raw.githubusercontent.com/OpenResearchAssets/openresearchassets.github.io/main/assets/mark.svg" width="104" alt="OpenResearchAssets 品牌标识" />
+  </a>
+</p>
+
 # OpenResearchAssets
 
 **让可信、可理解、可复用的科研经验成为开放的公共资产。**
