@@ -4,44 +4,37 @@
   </a>
 </p>
 
-# OpenResearchAssets
+# Open Research Assets
 
-**让可信、可理解、可复用的科研经验成为开放的公共资产。**
+**精选真正高水平的科研视觉资产，沉淀真正有用的 Skills 与 Workflows。**
 
-OpenResearchAssets 是面向人类研究者与 AI Agent 的独立开源科研资产项目。我们希望不同研究者可以共同发现、理解、复用、审核和改进高价值的研究方法、工作流、工具、可编辑素材与经验，而不是重复从零开始。
+Open Research Assets 是独立的、中文为主英文为辅的开源科研资源项目。我们聚焦两件事：
 
-## 长期方向 · Community vision
+## 01 · Research Gallery — 精选高审美科研视觉
 
-![OpenResearchAssets 三阶段长期发展愿景：有价值的开源项目、活跃的开放社区、开放科研基础设施](https://raw.githubusercontent.com/OpenResearchAssets/openresearchassets.github.io/main/assets/diagrams/community-trajectory.svg)
+[**浏览精选科研配图 →**](https://openresearchassets.github.io/#gallery) · [**下载原创可编辑 SVG →**](https://openresearchassets.github.io/#assets)
 
-[English version of the editable SVG](https://github.com/OpenResearchAssets/openresearchassets.github.io/blob/main/assets/diagrams/community-trajectory.en.svg)
+精选真正优秀的论文 Teaser、Method Figure、Results Figure、项目主页与原生可编辑资源。每条记录说明值得学习的构图、视觉信息表达、来源与使用边界。**漂亮只是入门条件，科学表达与可迁移性同样重要。**
 
-**第一阶段 · 有价值的开源项目**：研究者真实使用和复用项目，形成独立的项目认知。
+## 02 · Research Skills / Workflows — 有依据地精选
 
-**第二阶段 · 有活力的开放社区**：更多研究者参与提交、讨论、审核和持续维护，形成可信的贡献机制。
+[**浏览精选 Skills / Workflows →**](https://openresearchassets.github.io/#skills)
 
-**第三阶段 · 开放科研基础设施**：在真实需求验证下推动科研资产标准、工具、工作流与 AI Agent 生态的互联互通。
+- **高热度 / Popular**：公开 GitHub 原始仓库、可核实 Star 数量及检查日期。热度不是我们实测效果。
+- **实践积累 / Field Notes**：团队实际工作里沉淀、并具有公开可检查产物或来源记录的流程。项目应用不等于独立效果验证。
 
-> 三个阶段是长期愿景，不代表当前功能已实现，也没有预设实现时间。科学真实性、来源可追溯、版权合规、透明审核和真正的科研价值，始终优先于 Star 与收录数量。
+不会为了数量收录大量缺乏用途说明的链接，也不会把普通清单或未执行的提示词叫作“亲测技能”。
 
-## 有来源可核对的真实论文案例 · Featured research
+## 长期方向 · Long-term vision
 
-[**RoboRender：方法、真实机器人结果与研究主页的证据链**](https://openresearchassets.github.io/examples/roborender.html) — 以作者公开论文和 8 项任务的结果为依据，提供原创可编辑 SVG、逐任务 CSV 与来源审计。**这是作者报告结果的独立解读，不是 OpenResearchAssets 的实验复现。**
+![OpenResearchAssets 三阶段愿景：有价值的开源项目、活跃的开放社区、开放科研基础设施](https://raw.githubusercontent.com/OpenResearchAssets/openresearchassets.github.io/main/assets/diagrams/community-trajectory.svg)
 
-[**RoboRender: source-grounded research analysis**](https://openresearchassets.github.io/examples/roborender.html) — editable editorial diagrams, author-reported per-task results and explicit reproduction limits.
+[English editable SVG](https://github.com/OpenResearchAssets/openresearchassets.github.io/blob/main/assets/diagrams/community-trajectory.en.svg)
 
-## 第一次使用 · Start here
-
-- **研究者 / Researcher:** [先看三个完整实践案例](https://openresearchassets.github.io/examples.html)，从可编辑 Method Figure 到对照实验与项目主页，再按任务[浏览资产库](https://openresearchassets.github.io/#references)；教学案例不包含真实实验结果。
-- **AI Agent:** [阅读 AI 使用指南](https://openresearchassets.github.io/for-agents/)；先按结构化目录检索，实际执行仍需相应文件与工具权限。
-- **贡献者 / Contributor:** [推荐科研资产](https://github.com/OpenResearchAssets/openresearchassets.github.io/issues/new?template=asset-request.md)，或[修正错误](https://github.com/OpenResearchAssets/openresearchassets.github.io/issues/new?template=catalog-correction.md)；支持方法、工作流、工具和原创可编辑素材。
+**有用项目 → 活跃社区 → 开放科研基础设施** 是发展方向，不是已经实现的功能或固定时间表。让更多研究者贡献高质量视觉素材、工具、真实使用经验和改进方案。
 
 ## 参与 · Get involved
 
-- [官方网站 / Website](https://openresearchassets.github.io/)
-- [主仓库 / Main repository](https://github.com/OpenResearchAssets/openresearchassets.github.io)
-- [贡献指南 / Contribute](https://github.com/OpenResearchAssets/openresearchassets.github.io/blob/main/CONTRIBUTING.md)
-- [提议资产、反馈问题 / Issues](https://github.com/OpenResearchAssets/openresearchassets.github.io/issues/new/choose)
-- [科研资产与社区方向 / Project strategy](https://github.com/OpenResearchAssets/openresearchassets.github.io/blob/main/docs/PRODUCT_STRATEGY.md)
+[官方网站](https://openresearchassets.github.io/) · [主仓库 / Star](https://github.com/OpenResearchAssets/openresearchassets.github.io) · [贡献规范](https://github.com/OpenResearchAssets/openresearchassets.github.io/blob/main/CONTRIBUTING.md) · [推荐资源或纠错](https://github.com/OpenResearchAssets/openresearchassets.github.io/issues/new/choose) · [给 AI 使用](https://openresearchassets.github.io/for-agents/)
 
-**English:** OpenResearchAssets is an independent, open-source initiative to make trusted research experience discoverable, reusable, and actionable by researchers and AI agents. We aim to grow from a useful project into a vibrant contributing community and—if validated by actual use—interoperable open research infrastructure. These are ambitions, not shipped capabilities. Chinese-first; English supported.
+**English:** Open Research Assets focuses on two collections: a highly curated research-visual Gallery and practical Skills/Workflows. External popularity is shown with dated GitHub stars; work labeled firsthand practice must cite public project artifacts. Legacy in-depth paper walkthroughs are supporting references, not a principal offering.
